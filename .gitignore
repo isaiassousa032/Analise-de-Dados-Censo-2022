@@ -1,0 +1,19 @@
+# Ignorar as pastas de dados para não estourar o limite do GitHub
+dados/brutos/
+dados/processados/
+
+# Ignorar extensões de dados e planilhas por segurança
+*.csv
+*.xlsx
+*.zip
+
+# Arquivos de sistema e cache do Jupyter Notebook
+.ipynb_checkpoints/
+.DS_Store
+
+# Pastas de ambientes virtuais Python
+venv/
+env/
+.env
+__pycache__/
+*.pyc
