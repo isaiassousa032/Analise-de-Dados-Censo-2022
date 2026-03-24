@@ -54,3 +54,7 @@ Seguindo os padrões de rigor da Certificação Google Advanced Data Analytics, 
 
 ## Link do conjunto de dados
 [Conjuntos de dados IBGE - Censo 2022](https://www.ibge.gov.br/estatisticas/sociais/saude/22827-censo-demografico-2022.html?=&t=downloads)
+
+## Proposta de Projeto
+[Proposta-de-Projeto_Analise-Demografica-e-Socioeconomica-Censo-IBGE-2022 .pdf](https://github.com/user-attachments/files/26226102/Proposta-de-Projeto_Analise-Demografica-e-Socioeconomica-Censo-IBGE-2022.pdf)
+
