@@ -12,3 +12,5 @@ env/
 .env
 __pycache__/
 *.pyc
+
+datasets-grandes
