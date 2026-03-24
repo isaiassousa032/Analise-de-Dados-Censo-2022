@@ -46,5 +46,11 @@ Seguindo os padrões de rigor da Certificação Google Advanced Data Analytics, 
 - Dataviz utilizando Power BI e Tableau
 > Apoiar decisões de negócios baseados nos dados
 
+**Em resumo:**
+- **Plan (Planejar)** → Define escopo, metas e necessidades do negócio.
+- **Analyze (Analisar)** → Coleta, limpeza e EDA (Análise Exploratória).
+- **Construct (Construir)** → Modelagem de Machine Learning e inferência estatística.
+- **Execute (Executar)** → Apresentação de resultados e recomendações aos stakeholders.
+
 ## Link do conjunto de dados
 [Conjuntos de dados IBGE - Censo 2022](https://www.ibge.gov.br/estatisticas/sociais/saude/22827-censo-demografico-2022.html?=&t=downloads)
