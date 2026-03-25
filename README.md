@@ -43,7 +43,8 @@ Seguindo os padrões de rigor da Certificação Google Advanced Data Analytics, 
 ### 4. Executar (Execute)
 **Foco:** Entrega e apresentação dos resultados obtidos (Data Storytelling e Dashboards)
 - Contar a história através dos números
-- Dataviz utilizando Power BI e Tableau
+- Dataviz utilizando **Power BI**, **Tableau**
+- Dataviz usando IA e visualização usando Excel
 > Apoiar decisões de negócios baseados nos dados
 
 **Em resumo:**
